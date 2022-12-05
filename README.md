@@ -15,6 +15,7 @@
 
 > ## Install NPM packages
 > cd Angular projesi
+> 
 > npm install
 
 > ## Run development server
