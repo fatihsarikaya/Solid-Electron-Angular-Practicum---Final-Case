@@ -13,7 +13,7 @@
 > ## Install Angular-Cli globally
 > npm install -g @angular/cli
 
-> ##Install NPM packages
+> ## Install NPM packages
 > cd Angular projesi
 > npm install
 
