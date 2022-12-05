@@ -10,6 +10,18 @@
 > ## About
 > Bu proje çok amaçlı oluşturulmuş bir e-ticaret sayfası. Şablon tasarımı oluşturduktan sonra Angular 13 ve Bootstrap 5'te geliştirdim. Asıl amaç, Angular mimarisini uygulamak ve alışveriş sepetini kullanılabilir hale getirmekti.
 
+*Install Angular-Cli globally*
+npm install -g @angular/cli
+
+*Install NPM packages*
+cd Angular projesi
+npm install
+
+*Run development server*
+ng serve
+
+http://localhost:4200/
+
 <br>
 <br>
 
